@@ -12,6 +12,24 @@
 
 如果你想先判断这个模块是否适合当前业务，可以先打开 web preview，在浏览器里看清产品目标、跟进逻辑和 AI 设置，再决定是否继续安装和配置。
 
+## 界面重点
+
+### 主工作区
+
+![神经私信主界面](assets/screenshots/neuro-mailing__main__zh.png)
+
+### 产品目标
+
+![产品目标](assets/screenshots/neuro-mailing__product-goal__zh.png)
+
+### Follow-ups
+
+![跟进逻辑](assets/screenshots/neuro-mailing__followups__zh.png)
+
+### AI 设置
+
+![AI 设置](assets/screenshots/neuro-mailing__ai-settings__zh.png)
+
 ## 模块简介
 
 | 参数 | 内容 |
