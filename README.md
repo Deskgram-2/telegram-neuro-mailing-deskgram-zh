@@ -1,14 +1,14 @@
-# Deskgram 2 神经私信
+﻿# Deskgram 2 神经私信
 
 神经私信是 Deskgram 2 中用于 Telegram 私聊 AI 外联的模块。它不只是发送第一条消息，而是围绕产品目标、对话风格、跟进逻辑和转化动作，持续推进整段沟通流程，更适合需要“聊出来”的销售或线索转化场景。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=cn)
 
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=cn)
 
 如果你想先判断这个模块是否适合当前业务，可以先打开 web preview，在浏览器里看清产品目标、跟进逻辑和 AI 设置，再决定是否继续安装和配置。
 
@@ -116,4 +116,5 @@
 
 - [Deskgram 2 官网](https://deskgram2.com/)
 - [Deskgram 2 Telegram Bot](https://t.me/DG2welcomebot)
-- [打开神经私信 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+- [打开神经私信 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=cn)
+
